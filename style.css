@@ -1,0 +1,19 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+body{
+    background-image: url(../images/image01.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: rgb(108, 108, 108);
+}
+.h1main{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 65px;
+}
